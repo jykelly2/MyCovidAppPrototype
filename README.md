@@ -6,7 +6,7 @@ This prototype design is an application for COVID-19 App. The motivation of the 
 
 Figma Prototype Link: https://www.figma.com/file/fCQb0YTzFhGasnoYr8hz8P/Covid19App?node-id=0%3A1
 
-Video Link: Downloadble in the above file links on GitHub
+Video Link: Downloadble in the PrototypeVideo.mkv file in the above links on GitHub
 
 ***
 
