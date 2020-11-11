@@ -2,17 +2,15 @@
 
 ## About
 
-***
-
 This prototype design is an application for COVID-19 App. The motivation of the app is to inform and update user about the coronavirus and to also prevent user from getting infected by the virus through the user tracker alert system. Main features include informing user about symptoms, prevention techniques, overall statistics and as well as funding which allows users to make contributions to help fight the coronavirus by donating through non profit oranizations. We also have an account based system with a phone number and also with notification and location permission setting so we could notify the user thorught the app or by mobile phone number of any near by alert of positive case.
 
 Figma Prototype Link: https://www.figma.com/file/fCQb0YTzFhGasnoYr8hz8P/Covid19App?node-id=0%3A1
 
 Video Link: Downloadble in the above file links on GitHub
 
-## New features to include in the future
-
 ***
+
+## New features to include in the future
 
 1.	Daily self-check by filling out information such as temperature, physical health etc. to keep track of the user's health.
 
@@ -24,10 +22,10 @@ Video Link: Downloadble in the above file links on GitHub
 
 5.	Chat feature to inform each other about coronavirus and to bring local communities together. Users can inform each other of nearby positive case, mask and medical information, places to avoid etc. in order to keep each other informed and safe.
 
+***
 
 
-
-### Overall view/design of the App
+## Overall view/design of the App
 
 * Inludes images of all the views provided by the app
 
