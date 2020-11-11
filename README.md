@@ -6,7 +6,7 @@
 * Inludes images of all the views provided by the app
 
 <div>
-<img src="https://github.com/jykelly2/MyCovidAppPrototype/blob/main/HCI%20Screenshots/Overall%20App.png" height="650" width="300"alt="The Login page">
+<img src="https://github.com/jykelly2/MyCovidAppPrototype/blob/main/HCI%20Screenshots/Overall%20App.png" height="550" width="550"alt="The Login page">
 <div>
 
 ***
