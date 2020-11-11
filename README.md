@@ -6,7 +6,7 @@
 * Inludes images of all the views provided by the app
 
 <div>
-<img src="https://github.com/jykelly2/MyCovidAppPrototype/blob/main/HCI%20Screenshots/Overall%App.png" height="650" width="300"alt="The Login page">
+<img src="https://github.com/jykelly2/MyCovidAppPrototype/blob/main/HCI%20Screenshots/Overall%20App.png" height="650" width="300"alt="The Login page">
 <div>
 
 ***
@@ -21,7 +21,7 @@
 
 ***
 
-### Customize Permission with settings
+### Customize permissions with settings
 
 * Update permissions regarding notification and locations and choose options for each
 
@@ -41,7 +41,7 @@
 
 ***
 
-### Explore each of the features
+### Explore each features
 
 * Explore each features provided by the app such as the symptoms page. Back button will take you back to the navigation page
 
